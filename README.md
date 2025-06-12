@@ -1,6 +1,6 @@
 # 👋 Welcome to PixPoint Solutions!
 
-**PixPoint Solutions** is a dynamic software company specializing in website development using the MERN stack, SQL, PostgreSQL, and cutting-edge AI services. We empower businesses to stand out with seamless digital solutions, branding, and captivating graphic design.
+**PixPoint Solutions** is a dynamic software company specializing in website development using the MERN stack,React, Next SQL, PostgreSQL, and cutting-edge AI services. We empower businesses to stand out with seamless digital solutions, branding, and captivating graphic design.
 
 ---
 
