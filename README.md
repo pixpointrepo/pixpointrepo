@@ -1,6 +1,6 @@
-# 👋 Welcome to PixPointRepo!
+# 👋 Welcome to PixPoint Solutions!
 
-**PixPointRepo** is a dynamic software company specializing in website development using the MERN stack, SQL, PostgreSQL, and cutting-edge AI services. We empower businesses to stand out with seamless digital solutions, branding, and captivating graphic design.
+**PixPoint Solutions** is a dynamic software company specializing in website development using the MERN stack, SQL, PostgreSQL, and cutting-edge AI services. We empower businesses to stand out with seamless digital solutions, branding, and captivating graphic design.
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 👤 About Us
 
-We blend creativity and technical expertise to deliver high-impact digital experiences. From robust backends to beautiful user interfaces and memorable brands, PixPointRepo is your partner for growth in the digital age.
+We blend creativity and technical expertise to deliver high-impact digital experiences. From robust backends to beautiful user interfaces and memorable brands, PixPoint Solutions is your partner for growth in the digital age.
 
 ---
 
@@ -45,5 +45,5 @@ We blend creativity and technical expertise to deliver high-impact digital exper
 
 ---
 
-### Thanks for visiting PixPointRepo!  
+### Thanks for visiting PixPoint Solutions!  
 *Let’s build something exceptional together.* 🚀
