@@ -36,7 +36,7 @@ We blend creativity and technical expertise to deliver high-impact digital exper
 ## 📫 Let’s Connect
 
 
-- **LinkedIn:** [linkedin.com/in/yourprofile]((https://np.linkedin.com/company/pixpoint-solutions))
+- **LinkedIn:** [linkedin](https://np.linkedin.com/company/pixpoint-solutions)
 
 ---
 
